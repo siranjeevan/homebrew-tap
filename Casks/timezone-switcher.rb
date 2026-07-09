@@ -13,9 +13,9 @@ cask "timezone-switcher" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
-  app "TimeZone Switcher.app"
+  app "TimeZoneSwitcher.app"
 
   zap trash: [
     "~/Library/Application Scripts/com.timezone.TimeZoneSwitcher",
