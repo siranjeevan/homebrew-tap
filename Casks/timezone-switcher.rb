@@ -1,6 +1,6 @@
 cask "timezone-switcher" do
   version "1.0.0"
-  sha256 "PASTE_THE_SHA256_HASH_FROM_YOUR_GITHUB_RELEASE_HERE"
+  sha256 "9d1e4aeef82cee9ba29ae5c5a7ea48d01216da4100daa5c880aaecced62f3bd8"
 
   url "https://github.com/siranjeevan/TimeZoneSwitcher/releases/download/v#{version}/TimeZoneSwitcher.dmg"
   name "TimeZone Switcher"
