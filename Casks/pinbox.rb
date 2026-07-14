@@ -1,5 +1,5 @@
 cask "pinbox" do
-  version "1.0.0"
+  version "1.0.1"
   sha256 "8f1873e361be334cbd83a83d914b13a24218d47316bc1e87ac683945d9191850"
 
   url "https://github.com/siranjeevan/Pinbox/releases/download/v#{version}/Pinbox.dmg"
