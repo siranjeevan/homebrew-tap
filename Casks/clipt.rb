@@ -1,6 +1,6 @@
 cask "clipt" do
-  version "1.0.2"
-  sha256 "4b3668bcf915fe2dca1100474052537f8b385ad77867faeddf3b07dd82aab525"
+  version "1.0.3"
+  sha256 "1765ee1ad438ef665dc8d8d64b2574ab0d44cf1e8cd30984af2c59d45d49a6ed"
 
   url "https://github.com/siranjeevan/Clipt/releases/download/v#{version}/Clipt.zip"
   name "Clipt"
