@@ -1,6 +1,6 @@
 cask "twofold" do
   version "1.0.0"
-  sha256 "b759071ee5d49b8ed91cbb15766a08a98c21c05a810f3421e127fb724948e4af"
+  sha256 "73e5685251bec8153b6dba03f4e4f8b9f5ed3140ae3000d1224f28e3a9e4b112"
 
   url "https://github.com/siranjeevan/Twofold/releases/download/v#{version}/Twofold.zip"
   name "Twofold"
